@@ -6,7 +6,7 @@ const Service = () => {
         <div className='container mx-auto mb-16'>
             <h3 className='section-heading pb-16'>Other Services</h3>
             <div className='md:grid grid-cols-2 lg:grid-cols-3 gap-4'>
-                <div className='grid grid-cols-8 gap-4 bg-[#ECF5FF] p-6 rounded-md '>
+                <div className='grid grid-cols-8 gap-0 bg-[#ECF5FF] p-6 rounded-md '>
                     <div className='py-7'>
                         <span className='bg-[#EE6611] flex justify-center items-center py-3 rounded-lg'>
                             <TbSmartHome className='text-2xl text-white' />
@@ -17,7 +17,7 @@ const Service = () => {
                         <p>Effortlessly find your dream property with advanced search filters.</p>
                     </div>
                 </div>
-                <div className='grid grid-cols-8 gap-4 bg-[#ECF5FF] p-6 rounded-md '>
+                <div className='grid grid-cols-8 gap-0 bg-[#ECF5FF] p-6 rounded-md '>
                     <div className='py-7'>
                         <span className='bg-[#EE6611] flex justify-center items-center py-3 rounded-lg'>
                             <TbSmartHome className='text-2xl text-white' />
@@ -28,7 +28,7 @@ const Service = () => {
                         <p>Explore properties through immersive virtual tours and HD photos.</p>
                     </div>
                 </div>
-                <div className='grid grid-cols-8 gap-4 bg-[#ECF5FF] p-6 rounded-md '>
+                <div className='grid grid-cols-8 gap-0 bg-[#ECF5FF] p-6 rounded-md '>
                     <div className='py-7'>
                         <span className='bg-[#EE6611] flex justify-center items-center py-3 rounded-lg'>
                             <TbSmartHome className='text-2xl text-white' />

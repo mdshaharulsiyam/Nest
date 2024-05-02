@@ -18,7 +18,7 @@ const Property = () => {
                     <img className='w-[70%] object-cover h-[270px] rounded-lg -mt-48 ml-28' src={img2} alt="" />
                 </div>
                 <div className='w-full'>
-                    <p className='top-heading'>Property buying</p>
+                <div className='start-center gap-1'><p className='w-10 h-[2px] bg-[#EE6611]'></p><p className='top-heading'>Property buying</p></div>
                     <h2 className='heading'>Efficient and Transparent Home Buying Solutions</h2>
                     <p className='pt-2 pb-10'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                     <span className='py-2 button w-fit px-4 rounded-sm start-center gap-2 cursor-pointer'>
@@ -31,7 +31,7 @@ const Property = () => {
             </div>
             <div className='md:grid grid-cols-2 gap-8 center-center flex-col py-6'>
                 <div className='w-full'>
-                    <p className='top-heading'>Property buying</p>
+                <div className='start-center gap-1'><p className='w-10 h-[2px] bg-[#EE6611]'></p><p className='top-heading'>Property buying</p></div>
                     <h2 className='heading'>Efficient and Transparent Home Buying Solutions</h2>
                     <p className='pt-2 pb-10'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                     <span className='py-2 button w-fit px-4 rounded-sm start-center gap-2 cursor-pointer'>
@@ -58,7 +58,7 @@ const Property = () => {
                     <img className='w-[70%] object-cover h-[270px] rounded-lg -mt-48 ml-28' src={img6} alt="" />
                 </div>
                 <div className='w-full'>
-                    <p className='top-heading'>Property buying</p>
+                <div className='start-center gap-1'><p className='w-10 h-[2px] bg-[#EE6611]'></p><p className='top-heading'>Property buying</p></div>
                     <h2 className='heading'>Efficient and Transparent Home Buying Solutions</h2>
                     <p className='pt-2 pb-10'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
                     <span className='py-2 button w-fit px-4 rounded-sm start-center gap-2 cursor-pointer'>

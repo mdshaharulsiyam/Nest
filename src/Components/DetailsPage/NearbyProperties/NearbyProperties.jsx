@@ -8,18 +8,19 @@ import { MdArrowBackIos, MdArrowForwardIos, MdOutlineLocationOn } from 'react-ic
 import img7 from '../../../assets/property/img7.png'
 import img8 from '../../../assets/property/img8.png'
 import img9 from '../../../assets/property/img9.png'
-const NewProperties = () => {
+
+const NearbyProperties = () => {
   return (
-    <div id='Popular' className='container mx-auto pt-10'>
+    <div id='Popular' className='container mx-auto pt-0         '>
     <div className='between-center'>
-        <h3 className='text-[32px] font-semibold text-[#111827]'>New Listed Properties</h3>
+        <h3 className='text-[32px] font-semibold text-[#111827]'>Others Nearby Properties</h3>
         <Link className='text-[#0059B1] text-lg font-semibold'>See all propeety</Link>
     </div>
     <div className='py-8 sliderWidht mx-auto'>
         <Swiper
             autoplay={{ delay: 2500, disableOnInteraction: false }}
             modules={[Navigation]}
-            slidesPerView={1}
+            slidesPerView={3}
             navigation={{
                 nextEl: '.swiper-button-next',
                 prevEl: '.swiper-button-prev',
@@ -162,4 +163,4 @@ const NewProperties = () => {
   )
 }
 
-export default NewProperties
+export default NearbyProperties

@@ -4,8 +4,9 @@ import logo from '../../../assets/logo/logo.png'
 const Navber = () => {
     const navlinks = [
         { menu: 'Buy', path: '/buy' },
-        { menu: 'Sell', path: '/sell' },
-        { menu: 'Services', path: '/services' },
+        { menu: 'Details', path: '/details' },
+        { menu: 'About', path: '/about' },
+        { menu: 'Search', path: '/search' },
     ]
     return (
         <div className='bg-[#ECF5FF]'>
@@ -34,7 +35,7 @@ const Navber = () => {
                     <NavLink to={'#'} className="">
                         Manage Rentals
                     </NavLink>
-                    <NavLink to={'/signin'} className="ml-3">
+                    <NavLink to={'#'} className="ml-3">
                         Sign In
                     </NavLink>
 

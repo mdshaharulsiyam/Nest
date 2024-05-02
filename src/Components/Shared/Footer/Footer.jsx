@@ -6,12 +6,12 @@ import { FaFacebook, FaLinkedin, FaTwitter } from 'react-icons/fa'
 const Footer = () => {
     return (
         <div className='bg-[#ECF5FF] py-12'>
-            <div className='container mx-auto flex  justify-start items-start gap-2'>
-                <div className='w-[31%] max-w-[320px]'>
+            <div className='container mx-auto md:flex  justify-start items-start gap-2'>
+                <div className='md:w-[31%] w-full max-w-[320px]'>
                     <img src={logo} alt="" />
                     <p className='text-base'>Design amazing digital experiences that create more happy in the world.</p>
                 </div>
-                <div className='lg:grid block lg:grid-cols-2 xl:grid-cols-4 gap-2 w-full'>
+                <div className='md:grid block md:grid-cols-2 xl:grid-cols-4 gap-2 w-full'>
                     <div className='start-start flex-col gap-3'>
                         <h6 className='text-sm font-semibold text-[#667085] pb-2'>Product</h6>
                         <Link className='foot-shortcut' to={'#'}>Overview</Link>

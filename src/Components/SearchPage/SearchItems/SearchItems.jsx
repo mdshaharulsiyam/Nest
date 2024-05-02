@@ -24,7 +24,7 @@ const SearchItems = () => {
           <div className='col-span-3 grid grid-cols-3 items-start'>
             <div className='col-span-2 mb-8'>
               <h2 className='text-lg text-[#010101] tracking-[-0.18px] font-semibold leading-[24px]'> 3 BHK Builder Floor for Sale in Site Ram Bazar New Delhi</h2>
-              <span className='start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
+              <span className='sm:start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
                 <MdOutlineLocationOn className='text-orange-400 text-2xl' />Meadowshire Park, Greenfield, USA
               </span>
               <p className='text-[#010101] '>Property details</p>
@@ -37,21 +37,21 @@ const SearchItems = () => {
                 </button>
               </Link>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
                 <p className='-mt-1'>891 sqft</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Status</p>
                 <p className='-mt-1'>Ready to move</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
@@ -66,7 +66,7 @@ const SearchItems = () => {
           <div className='col-span-3 grid grid-cols-3 items-start'>
             <div className='col-span-2 mb-8'>
               <h2 className='text-lg text-[#010101] tracking-[-0.18px] font-semibold leading-[24px]'> 3 BHK Builder Floor for Sale in Site Ram Bazar New Delhi</h2>
-              <span className='start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
+              <span className='sm:start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
                 <MdOutlineLocationOn className='text-orange-400 text-2xl' />Meadowshire Park, Greenfield, USA
               </span>
               <p className='text-[#010101] '>Property details</p>
@@ -79,21 +79,21 @@ const SearchItems = () => {
                 </button>
               </Link>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
                 <p className='-mt-1'>891 sqft</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Status</p>
                 <p className='-mt-1'>Ready to move</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
@@ -108,7 +108,7 @@ const SearchItems = () => {
           <div className='col-span-3 grid grid-cols-3 items-start'>
             <div className='col-span-2 mb-8'>
               <h2 className='text-lg text-[#010101] tracking-[-0.18px] font-semibold leading-[24px]'> 3 BHK Builder Floor for Sale in Site Ram Bazar New Delhi</h2>
-              <span className='start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
+              <span className='sm:start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
                 <MdOutlineLocationOn className='text-orange-400 text-2xl' />Meadowshire Park, Greenfield, USA
               </span>
               <p className='text-[#010101] '>Property details</p>
@@ -121,21 +121,21 @@ const SearchItems = () => {
                 </button>
               </Link>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
                 <p className='-mt-1'>891 sqft</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Status</p>
                 <p className='-mt-1'>Ready to move</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
@@ -150,7 +150,7 @@ const SearchItems = () => {
           <div className='col-span-3 grid grid-cols-3 items-start'>
             <div className='col-span-2 mb-8'>
               <h2 className='text-lg text-[#010101] tracking-[-0.18px] font-semibold leading-[24px]'> 3 BHK Builder Floor for Sale in Site Ram Bazar New Delhi</h2>
-              <span className='start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
+              <span className='sm:start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
                 <MdOutlineLocationOn className='text-orange-400 text-2xl' />Meadowshire Park, Greenfield, USA
               </span>
               <p className='text-[#010101] '>Property details</p>
@@ -163,21 +163,21 @@ const SearchItems = () => {
                 </button>
               </Link>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
                 <p className='-mt-1'>891 sqft</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Status</p>
                 <p className='-mt-1'>Ready to move</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
@@ -192,7 +192,7 @@ const SearchItems = () => {
           <div className='col-span-3 grid grid-cols-3 items-start'>
             <div className='col-span-2 mb-8'>
               <h2 className='text-lg text-[#010101] tracking-[-0.18px] font-semibold leading-[24px]'> 3 BHK Builder Floor for Sale in Site Ram Bazar New Delhi</h2>
-              <span className='start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
+              <span className='sm:start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
                 <MdOutlineLocationOn className='text-orange-400 text-2xl' />Meadowshire Park, Greenfield, USA
               </span>
               <p className='text-[#010101] '>Property details</p>
@@ -205,21 +205,21 @@ const SearchItems = () => {
                 </button>
               </Link>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
                 <p className='-mt-1'>891 sqft</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Status</p>
                 <p className='-mt-1'>Ready to move</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
@@ -234,7 +234,7 @@ const SearchItems = () => {
           <div className='col-span-3 grid grid-cols-3 items-start'>
             <div className='col-span-2 mb-8'>
               <h2 className='text-lg text-[#010101] tracking-[-0.18px] font-semibold leading-[24px]'> 3 BHK Builder Floor for Sale in Site Ram Bazar New Delhi</h2>
-              <span className='start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
+              <span className='sm:start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
                 <MdOutlineLocationOn className='text-orange-400 text-2xl' />Meadowshire Park, Greenfield, USA
               </span>
               <p className='text-[#010101] '>Property details</p>
@@ -247,21 +247,21 @@ const SearchItems = () => {
                 </button>
               </Link>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
                 <p className='-mt-1'>891 sqft</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Status</p>
                 <p className='-mt-1'>Ready to move</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
@@ -276,7 +276,7 @@ const SearchItems = () => {
           <div className='col-span-3 grid grid-cols-3 items-start'>
             <div className='col-span-2 mb-8'>
               <h2 className='text-lg text-[#010101] tracking-[-0.18px] font-semibold leading-[24px]'> 3 BHK Builder Floor for Sale in Site Ram Bazar New Delhi</h2>
-              <span className='start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
+              <span className='sm:start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
                 <MdOutlineLocationOn className='text-orange-400 text-2xl' />Meadowshire Park, Greenfield, USA
               </span>
               <p className='text-[#010101] '>Property details</p>
@@ -289,21 +289,21 @@ const SearchItems = () => {
                 </button>
               </Link>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
                 <p className='-mt-1'>891 sqft</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Status</p>
                 <p className='-mt-1'>Ready to move</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
@@ -318,7 +318,7 @@ const SearchItems = () => {
           <div className='col-span-3 grid grid-cols-3 items-start'>
             <div className='col-span-2 mb-8'>
               <h2 className='text-lg text-[#010101] tracking-[-0.18px] font-semibold leading-[24px]'> 3 BHK Builder Floor for Sale in Site Ram Bazar New Delhi</h2>
-              <span className='start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
+              <span className='sm:start-center gap-2 font-semiboldbold text-lg pb-4 mt-7 mb-2'>
                 <MdOutlineLocationOn className='text-orange-400 text-2xl' />Meadowshire Park, Greenfield, USA
               </span>
               <p className='text-[#010101] '>Property details</p>
@@ -331,21 +331,21 @@ const SearchItems = () => {
                 </button>
               </Link>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>
                 <p className='-mt-1'>891 sqft</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Status</p>
                 <p className='-mt-1'>Ready to move</p>
               </div>
             </div>
-            <div className='start-center gap-2'>
+            <div className='sm:start-center gap-2'>
               <GrStatusPlaceholder className='w-10 h-10 bg-orange-500  p-2 rounded-md text-white' />
               <div>
                 <p className='font-semibold'>Total Area</p>

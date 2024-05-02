@@ -19,7 +19,7 @@ const PopularProperties = () => {
                 <Swiper
                     autoplay={{ delay: 2500, disableOnInteraction: false }}
                     modules={[Navigation]}
-                    slidesPerView={3}
+                    slidesPerView={1}
                     navigation={{
                         nextEl: '.swiper-button-next',
                         prevEl: '.swiper-button-prev',
@@ -34,7 +34,7 @@ const PopularProperties = () => {
                             slidesPerView: 2,
                             spaceBetween: 20,
                         },
-                        600: {
+                        320: {
                             slidesPerView: 1,
                             spaceBetween: 10,
                         },

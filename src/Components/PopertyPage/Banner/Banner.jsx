@@ -14,7 +14,7 @@ const Banner = () => {
     }
     return (
         <>
-            <img className='w-full' src={banner2} alt="" />
+            <img className='w-full h-[400px] object-cover' src={banner2} alt="" />
             <div className='container max-w-5xl mx-auto bg-white relative rounded-md py-6 -mt-40'>
                 <div className='p-6'>
                     <div className='filter-button'>
